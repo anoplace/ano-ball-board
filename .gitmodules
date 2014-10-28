@@ -1,0 +1,3 @@
+[submodule "lbr"]
+	path = lbr
+	url = git@github.com:yuhki50/eagle-pcb-library.git
