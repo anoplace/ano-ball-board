@@ -8594,7 +8594,7 @@ Source:
 <pinref part="X1" gate="C" pin="2"/>
 </segment>
 </net>
-<net name="RXD1" class="0">
+<net name="RXD0" class="0">
 <segment>
 <wire x1="124.46" y1="129.54" x2="129.54" y2="129.54" width="0.1524" layer="91"/>
 <label x="129.54" y="129.54" size="1.778" layer="95"/>
@@ -8602,7 +8602,7 @@ Source:
 <pinref part="RN1" gate="C" pin="2"/>
 </segment>
 </net>
-<net name="TXD1" class="0">
+<net name="TXD0" class="0">
 <segment>
 <wire x1="124.46" y1="121.92" x2="129.54" y2="121.92" width="0.1524" layer="91"/>
 <label x="129.54" y="121.92" size="1.778" layer="95"/>
@@ -8859,14 +8859,14 @@ Source:
 <wire x1="193.04" y1="129.54" x2="208.28" y2="129.54" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="RXD1" class="0">
+<net name="RXD0" class="0">
 <segment>
 <pinref part="IC4" gate="G$1" pin="DIO7"/>
 <wire x1="165.1" y1="106.68" x2="170.18" y2="106.68" width="0.1524" layer="91"/>
 <label x="170.18" y="106.68" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="TXD1" class="0">
+<net name="TXD0" class="0">
 <segment>
 <pinref part="IC4" gate="G$1" pin="DIO6"/>
 <wire x1="170.18" y1="109.22" x2="165.1" y2="109.22" width="0.1524" layer="91"/>
@@ -9024,14 +9024,14 @@ Source:
 <pinref part="SW1" gate="S" pin="P1"/>
 </segment>
 </net>
-<net name="RXD2" class="0">
+<net name="RXD1" class="0">
 <segment>
 <pinref part="IC4" gate="G$1" pin="DIO9"/>
 <wire x1="165.1" y1="101.6" x2="170.18" y2="101.6" width="0.1524" layer="91"/>
 <label x="170.18" y="101.6" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="TXD2" class="0">
+<net name="TXD1" class="0">
 <segment>
 <pinref part="IC4" gate="G$1" pin="DIO11"/>
 <wire x1="165.1" y1="96.52" x2="170.18" y2="96.52" width="0.1524" layer="91"/>
@@ -9125,14 +9125,14 @@ Source:
 <junction x="91.44" y="111.76"/>
 </segment>
 </net>
-<net name="RXD2" class="0">
+<net name="RXD1" class="0">
 <segment>
 <wire x1="162.56" y1="106.68" x2="167.64" y2="106.68" width="0.1524" layer="91"/>
 <label x="167.64" y="106.68" size="1.778" layer="95"/>
 <pinref part="RN3" gate="C" pin="2"/>
 </segment>
 </net>
-<net name="TXD2" class="0">
+<net name="TXD1" class="0">
 <segment>
 <wire x1="162.56" y1="99.06" x2="167.64" y2="99.06" width="0.1524" layer="91"/>
 <label x="167.64" y="99.06" size="1.778" layer="95"/>
